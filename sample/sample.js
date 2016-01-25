@@ -1,1 +1,1 @@
-console.log("Sample!!! Ubuntu.!! wow~~.");
+console.log("Sample!!! Ubuntu.!! wow~~!");
